@@ -79,10 +79,12 @@ A curated list of awesome laser-cutting resources.
 - [FlatFab] - Design and fabricate 3D objects.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
+- [MeshNomics] - Machine comparison and production-cost planning for makers who sell laser, CNC and 3D-printed products.
 - [NC Viewer] - Browser based G-Code viewer and editor.
 
 [FlatFab]: http://flatfab.com
 [Makercase]: https://www.makercase.com
+[MeshNomics]: https://www.meshnomics.com/
 [NC Viewer]: https://ncviewer.com/
 
 
